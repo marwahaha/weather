@@ -52,7 +52,7 @@ If you do not wish to install git, you can dewnload this repository as a zip (bu
     - %p: Air Pressure
     - %w: Wind Speed
     - %W: Wind Descriptor eg: "Fresh Breeze"
-    - %d: Wind Direction abreviated
+    - %d: Wind Direction abbreviated
     - %D: Wind Direction
     - %a: Wind Direction Angle
     - %r: Raining (yes/no)
